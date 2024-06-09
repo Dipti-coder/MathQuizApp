@@ -24,5 +24,4 @@ Design: Material Design guidelines
 
 ##License
 
-(Add screenshots of your app here to give potential users a visual overview)
 
