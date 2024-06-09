@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Math Quiz</string>
+    <string name="math_quiz_game">MATH-QUIZ GAME</string>
+    <string name="start_game">Start Game</string>
+    <string name="level_1">Level 1</string>
+    <string name="score_0">Score: 0</string>
+    <string name="_10">10</string>
+    <string name="_55_69">55 + 69 = ?</string>
+    <string name="question_1_100">Question- 1/100</string>
+    <string name="a">A:</string>
+    <string name="_134">134</string>
+    <string name="b">B:</string>
+    <string name="c">C:</string>
+    <string name="d">D:</string>
+    <string name="splashimage">SplashImage</string>
+    <string name="play_awesome_math_quiz_game">Play Awesome Math Quiz Game</string>
+</resources>
